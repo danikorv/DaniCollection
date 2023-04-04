@@ -1,0 +1,77 @@
+@font-face {
+    font-family: 'Germanicahelvetica';
+    src: url(Germanica.ttf);
+  }
+
+  html {
+    cursor: url('images/starcursor.png'), auto !important;
+}
+
+
+
+
+
+  h1 {
+    font-family: 'Germanica';
+    text-align: center;
+    font-size: 100px;
+    color: rgb(255, 255, 255);
+
+  }
+body {
+    background: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: 5% auto;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-column-gap: 0px;
+}
+
+.boot {
+    padding: 20px;
+    text-align: center;
+    font-family: 'Germanica';
+    font-size: 35px;
+    color: white;
+    column-gap: 50px;
+    transition: 1s ease;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -webkit-transition: all 1s ease;
+
+}
+
+.boot:hover {
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:  rgb(255, 255, 255);
+background: rgba(255, 243, 114, 0.684);
+box-shadow: 0 0 300px rgb(184, 117, 0);
+filter: grayscale(0%);
+filter: rgb(42, 42, 42);
+-webkit-filter: grayscale(0%);
+filter: none;
+transition: 1s ease;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+     
+
+
+
+
+
+
+
+
+ 
+        
