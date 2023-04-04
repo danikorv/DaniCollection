@@ -37,7 +37,7 @@
     {
       "boots": "images/pop6.png",
       "era": "pop",
-      "number": 11,
+      "number": 10,
       "color": "teal",
       "rating": "2/5"
     },
@@ -51,9 +51,23 @@
     {
       "boots": "images/pop8.png",
       "era": "pop",
-      "number": 11,
+      "number": 12,
       "color": "white",
       "rating": "5/5"
+    },
+    {
+      "boots": "images/oldwestern4.png",
+      "era": "old western",
+      "number": "1",
+      "color": "beige",
+      "rating": "2/5"
+    },
+    {
+      "boots": "images/oldwestern5.png",
+      "era": "old western",
+      "number": "3",
+      "color": "brown",
+      "rating": "3/5"
     },
     {
       "boots": "images/oldwestern1.png",
@@ -65,9 +79,30 @@
     {
       "boots": "images/oldwestern2.png",
       "era": "old western",
-      "number": 6,
+      "number": 7,
       "color": "brown",
       "rating": "5/5"
+    },
+    {
+      "boots": "images/oldwestern8.png",
+      "era": "old western",
+      "number": "16",
+      "color": "brown/teal",
+      "rating": "4/5"
+    },
+    {
+      "boots": "images/oldwestern6.png",
+      "era": "old western",
+      "number": "18",
+      "color": "brown/teal",
+      "rating": "3/5"
+    },
+    {
+      "boots": "images/oldwestern7.png",
+      "era": "old western",
+      "number": "22",
+      "color": "brown/red/white/blue",
+      "rating": "1/5"
     },
     {
       "boots": "images/oldwestern3.png",
@@ -77,150 +112,115 @@
       "rating": "5/5"
     },
     {
-      "boots": "images/oldwestern4.png",
-      "era": "old western",
-      "number": "",
-      "color": "beige",
+      "boots": "images/classic7.png",
+      "era": "classic",
+      "number": "2",
+      "color": "black",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/classic4.png",
+      "era": "classic",
+      "number": "3",
+      "color": "brown/white/red",
+      "rating": "4/5"
+    },
+    {
+      "boots": "images/classic3.png",
+      "era": "classic",
+      "number": "5",
+      "color": "black",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/classic6.png",
+      "era": "classic",
+      "number": "5",
+      "color": "brown",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/classic1.png",
+      "era": "classic",
+      "number": 6,
+      "color": "black/white/red/tan",
       "rating": "2/5"
     },
     {
-      "boots": "images/oldwestern5.png",
-      "era": "old western",
-      "number": "",
+      "boots": "images/classic5.png",
+      "era": "classic",
+      "number": "9",
+      "color": "brown/blue",
+      "rating": "2/5"
+    },
+    {
+      "boots": "images/classic8.png",
+      "era": "classic",
+      "number": "9",
+      "color": "beige",
+      "rating": "1/5"
+    },
+    {
+      "boots": "images/classic2.png",
+      "era": "classic",
+      "number": 19,
+      "color": "white",
+      "rating": "1/5"
+    },
+    {
+      "boots": "images/modern1.png",
+      "era": "modern",
+      "number": "3",
+      "color": "black",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/modern3.png",
+      "era": "modern",
+      "number": "4",
+      "color": "black",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/modern4.png",
+      "era": "modern",
+      "number": "4",
+      "color": "white",
+      "rating": "3/5"
+    },
+    {
+      "boots": "images/modern6.png",
+      "era": "modern",
+      "number": "6",
+      "color": "brown",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/modern7.png",
+      "era": "modern",
+      "number": "7",
+      "color": "white",
+      "rating": "1/5"
+    },
+    {
+      "boots": "images/modern2.png",
+      "era": "modern",
+      "number": "7",
+      "color": "black",
+      "rating": "5/5"
+    },
+    {
+      "boots": "images/modern5.png",
+      "era": "modern",
+      "number": "28",
       "color": "brown",
       "rating": "3/5"
     },
     {
-      "boots": "images/oldwestern6.png",
-      "era": "old western",
-      "number": "",
-      "color": "brown/teal",
-      "rating": ""
-    },
-    {
-      "boots": "images/oldwestern7.png",
-      "era": "old western",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "images/oldwestern8.png",
-      "era": "old western",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c1",
-      "era": "classic",
-      "number": 1,
-      "color": "red",
-      "rating": "5/5"
-    },
-    {
-      "boots": "c2",
-      "era": "classic",
-      "number": 5,
-      "color": "white",
-      "rating": "5/5"
-    },
-    {
-      "boots": "c3",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c4",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c5",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c6",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c7",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "c8",
-      "era": "classic",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
+      "boots": "images/modern8.png",
       "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
-    },
-    {
-      "boots": "",
-      "era": "modern",
-      "number": "",
-      "color": "",
-      "rating": ""
+      "number": "28",
+      "color": "black",
+      "rating": "4/5"
     }
   ]
