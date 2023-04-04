@@ -10,7 +10,6 @@
 
 
 
-
   h1 {
     font-family: 'Germanica';
     text-align: center;
@@ -29,6 +28,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 0px;
 }
+
 
 .boot {
     padding: 20px;
